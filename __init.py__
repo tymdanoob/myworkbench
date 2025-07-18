@@ -1,0 +1,1 @@
+from .MonitorDirectoryCommand import MonitorDirectoryCommand  # Import the class for use in Gui.addWorkbench()
